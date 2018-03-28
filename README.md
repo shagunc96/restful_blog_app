@@ -4,6 +4,8 @@ This is a blog platform created using NodeJs, MongoDB(Mongoose ORM), and uses Se
 
 A basic CRUD(Create, Read, Update and Delete) application.
 
+It follows the RESTful architectural style.
+
 To run this app, you need to have NodeJs and MongoDB installed and running.
 Clone this repository, and run <code>npm install</code> in the project directory.
 
